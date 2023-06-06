@@ -1,0 +1,22 @@
+.table {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+
+.type {
+  font-weight: bold;
+}
+
+th {
+  width: 200px;
+  background-color: aquamarine;
+  border: 1px solid grey;
+  padding: 5px;
+}
+
+td {
+  background-color: antiquewhite;
+  border: 1px solid grey;
+  padding: 5px;
+}

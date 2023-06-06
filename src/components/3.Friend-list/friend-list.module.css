@@ -1,0 +1,24 @@
+.friendList {
+  margin-top: 100px;
+  background-color: antiquewhite;
+  padding: 50px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  padding: 15px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border-bottom: 1px solid #989898;
+}
+
+.item:last-child {
+  border: none;
+}
+
+.name {
+  font-weight: bold;
+}
